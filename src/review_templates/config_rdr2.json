@@ -2,7 +2,7 @@
     "name": "Red Dead Redemption 2",
     "categories": [
         {
-            "title": "Graphics",
+            "title": "🎨 Graphics 🎨",
             "type": "radio",
             "options": [
                 "You forget what reality is",
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "title": "Gameplay",
+            "title": "🎮 Gameplay 🎮",
             "type": "radio",
             "options": [
                 "Very good",
@@ -27,7 +27,7 @@
             ]
         },
         {
-            "title": "Audio",
+            "title": "🔊 Audio 🔊",
             "type": "radio",
             "options": [
                 "Eargasm",
@@ -39,7 +39,7 @@
             ]
         },
         {
-            "title": "Audience",
+            "title": "👨‍👩‍👧‍👦 Audience 👨‍👩‍👧‍👦",
             "type": "check",
             "options": [
                 "Kids",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "title": "PC Requirements",
+            "title": "🖥️ PC Requirements 🖥️",
             "type": "radio",
             "options": [
                 "Check if you can run paint",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "title": "Game Size",
+            "title": "📁 Game Size 📁",
             "type": "radio",
             "options": [
               "Floppy Disk",
@@ -74,7 +74,7 @@
             ]
           },          
         {
-            "title": "Difficulty",
+            "title": "🎯 Difficulty 🎯",
             "type": "radio",
             "options": [
                 "Just press 'W'",
@@ -86,7 +86,7 @@
             ]
         },
         {
-            "title": "Grind",
+            "title": "🔄 Grind 🔄",
             "type": "radio",
             "options": [
                 "Nothing to grind",
@@ -98,7 +98,7 @@
             ]
         },
         {
-            "title": "Story",
+            "title": "📖 Story 📖",
             "type": "radio",
             "options": [
                 "No Story",
@@ -110,7 +110,7 @@
             ]
         },
         {
-            "title": "Game Time",
+            "title": "⏳ Game Time ⏳",
             "type": "radio",
             "options": [
                 "Long enough for a cup of coffee",
@@ -121,7 +121,7 @@
             ]
         },
         {
-            "title": "Price",
+            "title": "💵 Price 💵",
             "type": "radio",
             "options": [
                 "It's free!",
@@ -133,7 +133,7 @@
             ]
         },
         {
-            "title": "Bugs",
+            "title": "🐞 Bugs 🐞",
             "type": "radio",
             "options": [
                 "Never heard of",
@@ -144,7 +144,7 @@
             ]
         },
         {
-            "title": "? / 10",
+            "title": "⭐ ? / 10 ⭐",
             "type": "radio",
             "options": [
                 "1",
